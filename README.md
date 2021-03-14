@@ -1,6 +1,6 @@
-<img src="https://i.pinimg.com/originals/f0/fa/45/f0fa452ce5ec464e6f6539b36d308b82.jpg">
+<img src="https://img.indianautosblog.com/resize/750x-/2019/10/05/2020-audi-rs-6-avant-vega-yellow-3-4eee.jpg">
 
-# IPL PREDICTION
+# CAR BRAND PREDICTION
 
 [![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)                 
 [![Python 3.6](https://img.shields.io/badge/python-3.6-blue.svg)](https://www.python.org/downloads/release/python-360/) 
