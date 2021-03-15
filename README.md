@@ -55,7 +55,7 @@
 <img src="https://github.com/Mrinmoy-Aus/Deep-Learning_Car_Brand_Classification/blob/main/working.gif">
 
 ### How it works behind the scene:
-> This is a object dwtction project.I have used transfer leraning technique with the help of VGG-16.
+> This is a object detection project.I have used transfer leraning technique with the help of VGG-16.
 
 ### VGG-16
 VGG-16 is a convolution neural network(CNN) which has been trained on imageNet dataset which contains 14 million images belonging to 1000 classes. I have customized my putput layer to 3 as I have only 3 classes.I have also used softmax as my activation layer and I have achived a 92.7% accuracy in my model. Please download the model from here https://drive.google.com/file/d/1LE90axUNJJZ3e78kuY1K3-781Wz-qKJ9/view?usp=sharing.
