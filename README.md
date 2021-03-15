@@ -51,7 +51,7 @@
 ### Screenshots
 
 ### Basic UI
-<img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/ui.png">
+<img src="https://github.com/Mrinmoy-Aus/Deep-Learning_Car_Brand_Classification/blob/main/ui.png">
 
 ### Working:
 > Demo of the project.
