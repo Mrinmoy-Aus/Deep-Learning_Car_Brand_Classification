@@ -44,10 +44,7 @@
 
 ### To run the model:
 > python app.py
-
-### Hosted on web by using Heroku platform click on the link to see it:
-> https://mrinmoy-ipl-prediction.herokuapp.com/
-
+> 
 ### Screenshots
 
 ### Basic UI
@@ -55,7 +52,7 @@
 
 ### Working:
 > Demo of the project.
-<img src="https://github.com/Mrinmoy-Aus/IPL_PREDICTION/blob/main/working.gif">
+<img src="https://github.com/Mrinmoy-Aus/Deep-Learning_Car_Brand_Classification/blob/main/working.gif">
 
 ### How it works behind the scene:
 > This project is a prediction system which helps us predicting sores of a IPL match. In the csv file the dataset which I have used to basically predict the scores on the basis of batting team, bowling team , overs, runs , wickets,runs scored in previous over,wickets taken at previous over. I have used Lasso regression which not only helps in reducing over-fitting but it can help us in feature selection.
